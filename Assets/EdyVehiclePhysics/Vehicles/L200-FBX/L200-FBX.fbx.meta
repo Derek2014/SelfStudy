@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: ba8f0c70c38205244a58c186aa56af90
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Right_Front
+    100002: TruckBody
+    100004: Left_Front
+    100006: Left Pivot
+    100008: Right Pivot
+    100010: Left_Rear
+    100012: Right_Rear
+    100014: Left_Wiper
+    100016: Right_Wiper
+    100018: //RootNode
+    400000: Right_Front
+    400002: TruckBody
+    400004: Left_Front
+    400006: Left Pivot
+    400008: Right Pivot
+    400010: Left_Rear
+    400012: Right_Rear
+    400014: Left_Wiper
+    400016: Right_Wiper
+    400018: //RootNode
+    2300000: Right_Front
+    2300002: TruckBody
+    2300004: Left_Front
+    2300006: Left_Rear
+    2300008: Right_Rear
+    2300010: Left_Wiper
+    2300012: Right_Wiper
+    3300000: Right_Front
+    3300002: TruckBody
+    3300004: Left_Front
+    3300006: Left_Rear
+    3300008: Right_Rear
+    3300010: Left_Wiper
+    3300012: Right_Wiper
+    4300000: Right_Wiper
+    4300002: Left_Wiper
+    4300004: Right_Rear
+    4300006: Left_Rear
+    4300008: Left_Front
+    4300010: Right_Front
+    4300012: TruckBody
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

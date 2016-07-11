@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7b7218b788e517244b1df5df6dadf2a2
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+NativeFormatImporter:
+  userData: 
